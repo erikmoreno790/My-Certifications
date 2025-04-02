@@ -12,4 +12,4 @@ This repository contains my academic and professional certifications for validat
 
 > ⚠️ **Note**: Do not share these files without permission.  
 
-[![Certificates](https://img.shields.io/badge/📖_Certificates-View_Here-purple)](https://github.com/tu-usuario/my-certificates)  
+[![Certificates](https://img.shields.io/badge/📖_Certificates-View_Here-purple)](Certifications)  
